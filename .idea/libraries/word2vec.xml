@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="word2vec">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/word2vec.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="porterStemmer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/porterStemmer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
