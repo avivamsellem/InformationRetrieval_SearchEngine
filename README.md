@@ -4,7 +4,7 @@
 	<h3 align="center" style="color:#1d1d1d; font-family: Tahoma;">Creation of Inverted Index and Query Handling.<br></h3>
 	<h3 align="center" style="color:#1d1d1d; font-family: Tahoma;">Built in Java<br></h3>
 	<p align="center">
-	<a href="https://youtu.be/LL-aoLCeF1s" target="_blank"> <img src="https://i.ibb.co/HHKN3NB/play.png" alt="Play" width="139" height="73"/> </a> 
+	<a href="https://youtu.be/E-FBN_3Qn88" target="_blank"> <img src="https://i.ibb.co/HHKN3NB/play.png" alt="Play" width="139" height="73"/> </a> 
 	</p>
 	<br>
 	The development of the project is based on the Inverted Index data structure and query handling that based on the Okapi BM25 ranking function.<br><br>
